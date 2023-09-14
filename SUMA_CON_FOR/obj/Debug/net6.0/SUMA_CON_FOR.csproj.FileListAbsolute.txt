@@ -1,0 +1,14 @@
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\bin\Debug\net6.0\SUMA_CON_FOR.exe
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\bin\Debug\net6.0\SUMA_CON_FOR.deps.json
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\bin\Debug\net6.0\SUMA_CON_FOR.runtimeconfig.json
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\bin\Debug\net6.0\SUMA_CON_FOR.dll
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\bin\Debug\net6.0\SUMA_CON_FOR.pdb
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.AssemblyInfoInputs.cache
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.AssemblyInfo.cs
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.dll
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\refint\SUMA_CON_FOR.dll
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.pdb
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\SUMA_CON_FOR.genruntimeconfig.cache
+C:\Users\Ivar\Desktop\SUMA_CON_FOR\SUMA_CON_FOR\obj\Debug\net6.0\ref\SUMA_CON_FOR.dll
